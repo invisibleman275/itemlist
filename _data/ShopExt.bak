@@ -3311,50 +3311,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 1,
-      "degree": 1,
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1,
-      "degree": -1,
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
@@ -3395,6 +3351,33 @@
       "enabled": true,
       "name": "human",
       "price": 2000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "-108.0F Minimum comfortable temperature",
+          "+360.0F Maximum comfortable temperature",
+          "+0% Psychic sensitivity",
+          "+0% Toxic resistance",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+0 Carrying capacity",
+          "+0.00% Social impact",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A zombie",
+      "defName": "Zombie",
+      "enabled": true,
+      "name": "Zombie",
+      "price": 1
     }
   ]
 }
