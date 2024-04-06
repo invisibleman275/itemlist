@@ -7156,7 +7156,7 @@
       "abr": "zombiemeat",
       "category": "Meat",
       "defname": "Meat_Zombie",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "zombieserum10%",
@@ -7168,7 +7168,7 @@
       "abr": "zombieserum100%",
       "category": "Serum",
       "defname": "ZombieSerumSimple",
-      "price": 200
+      "price": -10
     },
     {
       "abr": "zombieserum100%",
