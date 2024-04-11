@@ -1,37 +1,7 @@
 [
   {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "RunAndGun",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Indeed",
-    "name": "Stack XXL",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Trade Ships Drop Spot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "nanonator102",
-    "name": "Farmable Neutroamine",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smuffle",
-    "name": "Harvest Organs Post Mortem",
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
     "steamId": null,
     "version": null
   },
@@ -42,8 +12,38 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Haplo",
     "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Indeed",
+    "name": "Stack XXL",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Apparel Expanded",
     "steamId": null,
     "version": null
   },
@@ -60,68 +60,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aoba",
-    "name": "WarCasket Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kierannkkt",
-    "name": "Mechlord Warcasket",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OskarPotocki, Atlas, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Paradox",
-    "name": "More Vanilla Turrets 1.1+",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "zzz",
-    "name": "Wall Vitals Monitor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
     "version": null
   },
@@ -133,13 +73,19 @@
   },
   {
     "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
+    "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Dakk Passerida",
-    "name": "Replantable Anima Trees",
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
   }

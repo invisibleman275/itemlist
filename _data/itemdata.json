@@ -8359,7 +8359,7 @@
     "Mod": "Royalty",
     "KarmaType": null
   },
-  "LWM_BigShelf": {
+  "GR_ParagonIguana": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8376,10 +8376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_VeryBigShelf": {
+  "GR_ParagonRat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8396,10 +8396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_MealRack": {
+  "GR_ParagonWolf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8416,10 +8416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_Food_Basket": {
+  "GR_ParagonMuffalo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8436,10 +8436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_Meat_Hook": {
+  "GR_ParagonChicken": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8456,10 +8456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_Hayloft": {
+  "GR_ParagonBoomalope": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8476,10 +8476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_FabricHamper": {
+  "GR_ParagonBear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8496,10 +8496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_Pallet": {
+  "GR_Muffaloman": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8516,10 +8516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_Pallet_Covered": {
+  "GR_Muffalorat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8536,10 +8536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_DeepStorage_Skip": {
+  "GR_Muffalocat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8556,10 +8556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_Medicine_Cabinet": {
+  "GR_Muffalowolf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8576,10 +8576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_Clothing_Rack": {
+  "GR_Muffalochicken": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8596,10 +8596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_Safe": {
+  "GR_Muffalope": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8616,10 +8616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_WeaponsCabinet": {
+  "GR_Muffalobear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8636,10 +8636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LWM_WeaponsLocker": {
+  "GR_Mechamime": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8656,10 +8656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "LWM's Deep Storage",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Neutroaleaves": {
+  "GR_Mechahorse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8676,10 +8676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Farmable Neutroamine",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Leather_Tailteeth": {
+  "GR_Mechacat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8696,10 +8696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Oyster": {
+  "GR_Mechathrumbo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8716,10 +8716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Pearl": {
+  "GR_Mechawolf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8736,10 +8736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Sduiggles": {
+  "GR_Mechaturtle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8756,10 +8756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Seasnake": {
+  "GR_Mecharat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8776,10 +8776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Mashgon": {
+  "GR_Mechamuffalo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8796,10 +8796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Blueblade": {
+  "GR_Mechaspider": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8816,10 +8816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Tailteeth": {
+  "GR_Mechachicken": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8836,10 +8836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "TableAutopsy": {
+  "GR_Mechalope": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8856,7 +8856,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Harvest Organs Post Mortem",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
   "AIRobot_RechargeStation_Hauler": {
@@ -10699,7 +10699,7 @@
     "Mod": "Vanilla Psycasts Expanded",
     "KarmaType": null
   },
-  "Lighting_MURWallLight": {
+  "GR_Mechabear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10716,10 +10716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Wall Light",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Lighting_MURWallSunLight": {
+  "GR_Manscarab": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10736,7 +10736,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Wall Light",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
   "VWE_SmokeGrenade": {
@@ -11599,27 +11599,7 @@
     "Mod": "Vanilla Weapons Expanded",
     "KarmaType": null
   },
-  "VFEP_WarcasketGun_CryptoCannon": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_Turret_FieldGun": {
+  "GR_Spidercat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11636,10 +11616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Turret_Cannon": {
+  "GR_Wolfscarab": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11656,10 +11636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_Autorifle": {
+  "GR_Muffalopede": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11676,10 +11656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_UraniumSlugRifle": {
+  "GR_Chickenspider": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11696,10 +11676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_Slugthrower": {
+  "GR_Boombeetle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11716,10 +11696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_Minigun": {
+  "GR_Bearscarab": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11736,10 +11716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_GrenadeLauncher": {
+  "GR_Mansquirrel": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11756,10 +11736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_HeavyFlamer": {
+  "GR_Mancat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11776,10 +11756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_CombatKnife": {
+  "GR_Manwolf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11796,10 +11776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_Broadsword": {
+  "GR_Manffalo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11816,10 +11796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_ChargeLance": {
+  "GR_Manchicken": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11836,10 +11816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_HandheldCannon": {
+  "GR_Manalope": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11856,10 +11836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_ChargeBlaster": {
+  "GR_Manbear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11876,10 +11856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Box_GravityHammer": {
+  "GR_Catman": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11896,30 +11876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Rum": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_Apparel_Privateer": {
+  "GR_Catwolf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11936,10 +11896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_Apparel_Rumsuit": {
+  "GR_Catrabbit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11956,270 +11916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEP_WarcasketMeleeWeapon_CombatKnife": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_WarcasketMeleeWeapon_Broadsword": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_WarcasketMeleeWeapon_GravityHammer": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_WarcasketGun_Autorifle": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_WarcasketGun_UraniumSlugRifle": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_WarcasketGun_Slugthrower": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_WarcasketGun_Minigun": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_WarcasketGun_GrenadeLauncher": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_WarcasketGun_HeavyFlamer": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_WarcasketGun_ChargeLance": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_WarcasketGun_HandheldCannon": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_WarcasketGun_ChargeBlaster": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEV_Mead": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFEV_FurBed": {
+  "GR_Catffalo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12236,10 +11936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_DoubleFurBed": {
+  "GR_Catchicken": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12256,10 +11956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Hnefatafl": {
+  "GR_Catalope": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12276,10 +11976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_TrainingDummy": {
+  "GR_Catbear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12296,10 +11996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_MeadFermentingBarrel": {
+  "GR_FleshFlies": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12316,10 +12016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Apiary": {
+  "GR_FleshGrowth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12336,10 +12036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_RuneStone": {
+  "GR_FleshMonstrosity": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12356,50 +12056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_PlantGrowerArtifact": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFEV_LothurrAntler": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFEV_Sweetroll": {
+  "GR_AberrantFleshbeast": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12416,10 +12076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Honey": {
+  "GR_Fleshling": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12436,10 +12096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Leather_Fenrir": {
+  "GR_Hurseman": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12456,10 +12116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Leather_Lothurr": {
+  "GR_Spiderhorse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12476,10 +12136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Leather_Njorun": {
+  "GR_Crocorse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12496,10 +12156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Apparel_GuardianHelmet": {
+  "GR_Muffalohorse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12516,10 +12176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Apparel_LeatherHelmet": {
+  "GR_Wolfhorse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12536,10 +12196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Apparel_RavagerHelmet": {
+  "GR_Molehorse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12556,10 +12216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_MooseHeaddress": {
+  "GR_Cathorse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12576,10 +12236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_BearHeaddress": {
+  "GR_Chickenhorse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12596,10 +12256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_JarlCrown": {
+  "GR_Boomhorse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12616,10 +12276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Apparel_GuardianArmor": {
+  "GR_Bearhorse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12636,10 +12296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_LeatherArmor": {
+  "GR_Thrumboman": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12656,10 +12316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Apparel_RavagerArmor": {
+  "GR_Thrumhorse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12676,10 +12336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Apparel_JarlCape": {
+  "GR_Thrumborat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12696,10 +12356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Apparel_RoyalFurCoat": {
+  "GR_Thrumbolizard": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12716,10 +12376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_CryptoArmor": {
+  "GR_Thrumbospider": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12736,10 +12396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_CryptoHeavyArmor": {
+  "GR_Thrumbocat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12756,10 +12416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Apparel_CryptoLightHelmet": {
+  "GR_Thrumwolf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12776,10 +12436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Apparel_CryptoHeavyHelmet": {
+  "GR_Thrumffalo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12796,10 +12456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Shield_Round": {
+  "GR_Thrumbochicken": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12816,10 +12476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Shield_Crypto": {
+  "GR_Thrumbalope": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12836,10 +12496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Apparel_TorchBelt": {
+  "GR_Thrumbear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -12856,116 +12516,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFE_MeleeWeapon_Seax": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFE_MeleeWeapon_BeardedAxe": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFE_MeleeWeapon_DaneAxe": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFEV_CryptoHeavyAxe": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFEV_CryptoLightAxe": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFE_ThrowingAxe": {
+  "GR_Dogman": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -12976,16 +12536,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFE_Harpoon": {
+  "GR_Wolfcat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -12996,10 +12556,410 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_OrbitalTargeterMjollnir": {
+  "GR_Wolfbeaver": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Wolffalo": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Wolfchicken": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Wolfalope": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Wolfbear": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Booman": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Boomcat": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Boomsquirrel": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Boomwolf": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Boomffalo": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Boomachicken": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Boomabear": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Turkeyman": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Chickencat": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Chickenrabbit": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Chickenwolf": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Chickenffalo": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Chickenlope": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Chickenbear": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ArchotechCentipede": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_MechanoidChip": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13016,90 +12976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_CryptoHeavyCrossbow": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFEV_CryptoLightCrossbow": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFEV_CryptoPistol": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFEV_CryptoRifle": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
-    "KarmaType": null
-  },
-  "VFEV_WoolyCow": {
+  "GR_TastyMeat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13116,10 +12996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_WoolCow": {
+  "GR_MechaWool": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13136,10 +13016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Fenrir": {
+  "GR_HybridScales": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13156,10 +13036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Lothurr": {
+  "GR_HybridChitin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13176,10 +13056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Njorun": {
+  "GR_HybridSilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13196,10 +13076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFEV_Wolfhound": {
+  "GR_LuxuriantHybridWool": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13216,10 +13096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Chemshine": {
+  "GR_ThickHybridWool": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13236,10 +13116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "ChemBoiler": {
+  "GR_ThinHybridWool": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13256,10 +13136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Chemlamp": {
+  "GR_Castoreum": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13276,10 +13156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "ChemlampPost": {
+  "GR_MuffaloPelt": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13296,10 +13176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Building_ChemshineBarrel": {
+  "GR_WolfPelt": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13316,10 +13196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "StoolBar": {
+  "GR_HugeBearCatPelt": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13336,10 +13216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "TableCircular": {
+  "GR_HugeBearPelt": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13356,10 +13236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "TableFaro": {
+  "GR_Chickenbearfeathers": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13376,10 +13256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "TableFiveFingerFilet": {
+  "GR_RatMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13396,10 +13276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Turret_GatlingGun": {
+  "GR_WolffaloMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13416,10 +13296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFES_Headgear_Bandana": {
+  "GR_MuffalobearMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13436,10 +13316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFES_Headgear_Sombrero": {
+  "GR_ChickenffaloMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13456,10 +13336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFES_Headgear_FlatCap": {
+  "GR_MuffalochickenMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13476,10 +13356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Apparel_Vest": {
+  "GR_ThrumffaloMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13496,10 +13376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Apparel_GreatDress": {
+  "GR_BearffaloMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13516,16 +13396,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFES_Gun_DoubleActionRevolver": {
+  "GR_MechaMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -13536,16 +13416,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFES_Gun_DoubleBarreledShotgun": {
+  "GR_WeirdMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -13556,16 +13436,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFES_Gun_HuntingRifle": {
+  "GR_TurkeymanEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -13576,16 +13456,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFES_Weapon_GrenadeDynamite": {
+  "GR_TurkeymanEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -13596,16 +13476,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "VFES_Tomahawk": {
+  "GR_ChickenhorseEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -13616,7 +13496,127 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Settlers",
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ChickenhorseEggUnfertilized": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ChickenlizardEggFertilized": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ChickenlizardEggUnfertilized": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ChickenspiderEggUnfertilized": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ThrumbochickenEggFertilized": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ThrumbochickenEggUnfertilized": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
   "Meat_Bear_Grizzly": {
@@ -14639,7 +14639,7 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Meat_Sduiggles": {
+  "GR_WolfchickenEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14656,10 +14656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Meat_Seasnake": {
+  "GR_WolfchickenEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14676,10 +14676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Meat_Mashgon": {
+  "GR_BoomachickenEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14696,10 +14696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Meat_Blueblade": {
+  "GR_BoomachickenEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14716,10 +14716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Meat_Tailteeth": {
+  "GR_ChickencatEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14736,10 +14736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Meat_VFEV_Fenrir": {
+  "GR_ChickencatEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14756,10 +14756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Meat_VFEV_Lothurr": {
+  "GR_ChickenrabbitEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14776,10 +14776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Meat_VFEV_Njorun": {
+  "GR_ChickenrabbitEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14796,10 +14796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Meat_VFEV_Wolfhound": {
+  "GR_ChickenwolfEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14816,7 +14816,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Vikings",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
   "Techprint_CataphractArmor": {
@@ -20679,7 +20679,7 @@
     "Mod": "Vanilla Furniture Expanded",
     "KarmaType": null
   },
-  "GunComplex": {
+  "GR_ChickenwolfEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20696,10 +20696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Vanilla Turrets 1.1+",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RocketComplex": {
+  "GR_ChickenffaloEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20716,10 +20716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Vanilla Turrets 1.1+",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "MilitaryTurretGun": {
+  "GR_ChickenffaloEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20736,10 +20736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Vanilla Turrets 1.1+",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "ShredderTurretGun": {
+  "GR_ChickenlopeEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20756,10 +20756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Vanilla Turrets 1.1+",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "PrecisionTurretGun": {
+  "GR_ChickenlopeEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20776,10 +20776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Vanilla Turrets 1.1+",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "BlastTurretGun": {
+  "GR_ChickenbearEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20796,10 +20796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Vanilla Turrets 1.1+",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "MilitaryTurretGunManned": {
+  "GR_ChickenbearEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20816,10 +20816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Vanilla Turrets 1.1+",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "ShredderTurretGunManned": {
+  "GR_BearChickenEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20836,10 +20836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Vanilla Turrets 1.1+",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "PrecisionTurretGunManned": {
+  "GR_BearChickenEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20856,10 +20856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Vanilla Turrets 1.1+",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "BlastTurretGunManned": {
+  "GR_ParagonIguanaEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20876,10 +20876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Vanilla Turrets 1.1+",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RimFridge_SingleRefrigerator": {
+  "GR_ParagonIguanaEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20896,10 +20896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimFridge Updated",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RimFridge_Refrigerator": {
+  "GR_ParagonChickenEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20916,10 +20916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimFridge Updated",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RimFridge_QuadRefrigerator": {
+  "GR_ParagonChickenEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20936,10 +20936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimFridge Updated",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RimFridge_SingleWallRefrigerator": {
+  "GR_ArchoGrowthcell": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20956,10 +20956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimFridge Updated",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RimFridge_WallRefrigerator": {
+  "GR_GrowthCell": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20976,10 +20976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimFridge Updated",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Wall_M_VitalsMonitor": {
+  "GR_TemplateGenetic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20996,7 +20996,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Wall Vitals Monitor",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
   "Bed_AdvBed": {
@@ -21599,7 +21599,7 @@
     "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "Bed_OperatingTable": {
+  "GR_ThrumboGenetic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21616,10 +21616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Furniture Expanded - Medical Module",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Bed_CryptoBed": {
+  "GR_ReptileGenetic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21636,10 +21636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Furniture Expanded - Medical Module",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Facility_VitalsCentre": {
+  "GR_InsectoidGenetic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21656,10 +21656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Furniture Expanded - Medical Module",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Facility_IVDrip": {
+  "GR_EquineGenetic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21676,7 +21676,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Furniture Expanded - Medical Module",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
   "VFE_Scarecrow": {
@@ -21719,7 +21719,167 @@
     "Mod": "Vanilla Furniture Expanded - Farming",
     "KarmaType": null
   },
-  "AIRobot_RechargeStation_Hauler_II": {
+  "GR_HumanoidGenetic": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_FelineGenetic": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_RodentGenetic": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_CanineGenetic": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_MuffaloGenetic": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_BoomalopeGenetic": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_AvianGenetic": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_UrsineGenetic": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ArchotechGenomeExcavator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21736,10 +21896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "AIRobot_RechargeStation_Hauler_III": {
+  "GR_GenomeExcavator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21756,10 +21916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "AIRobot_RechargeStation_Hauler_IV": {
+  "GR_GenoframeLegendary": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21769,157 +21929,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Misc. Robots++",
-    "KarmaType": null
-  },
-  "AIRobot_RechargeStation_Hauler_V": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Misc. Robots++",
-    "KarmaType": null
-  },
-  "AIRobot_RechargeStation_Cleaner_II": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Misc. Robots++",
-    "KarmaType": null
-  },
-  "AIRobot_RechargeStation_Cleaner_III": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Misc. Robots++",
-    "KarmaType": null
-  },
-  "AIRobot_RechargeStation_Cleaner_IV": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Misc. Robots++",
-    "KarmaType": null
-  },
-  "AIRobot_RechargeStation_Cleaner_V": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Misc. Robots++",
-    "KarmaType": null
-  },
-  "RPP_RechargeStation_Builder_I": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Misc. Robots++",
-    "KarmaType": null
-  },
-  "RPP_RechargeStation_Builder_II": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Builder_III": {
+  "GR_GenoframeMasterwork": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21929,17 +21949,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Builder_IV": {
+  "GR_GenoframeExcellent": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21949,17 +21969,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Builder_V": {
+  "GR_GenoframeGood": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21969,17 +21989,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Crafter_I": {
+  "GR_GenoframeNormal": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21989,17 +22009,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Crafter_II": {
+  "GR_GenoframePoor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22009,17 +22029,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Crafter_III": {
+  "GR_GenoframeAwful": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22029,17 +22049,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Crafter_IV": {
+  "GR_MechaniteBooster": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22049,17 +22069,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Crafter_V": {
+  "GR_BoosterHarmonoGreater": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22069,17 +22089,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_ER_I": {
+  "GR_BoosterImmunoGreater": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22089,17 +22109,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_ER_II": {
+  "GR_ImprovedController": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22109,17 +22129,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_ER_III": {
+  "GR_BoosterController": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22129,17 +22149,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_ER_IV": {
+  "GR_BoosterStabilizator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22149,17 +22169,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_ER_V": {
+  "GR_StabilizedFertilityUnblocker": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22169,17 +22189,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Kitchen_I": {
+  "GR_BoosterFertility": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22189,17 +22209,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Kitchen_II": {
+  "GR_BoosterTempo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22209,17 +22229,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Kitchen_III": {
+  "GR_BoosterHarmono": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22229,17 +22249,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Kitchen_IV": {
+  "GR_BoosterImmuno": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22249,17 +22269,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Kitchen_V": {
+  "GR_CompressedChemfuel": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22269,17 +22289,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Omni_I": {
+  "GR_EggBomb": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22289,17 +22309,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Omni_II": {
+  "GR_IguanaScales": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22309,17 +22329,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Omni_III": {
+  "GR_VenomousFangs": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22329,17 +22349,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Omni_IV": {
+  "GR_ThrumboSkin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22349,17 +22369,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_RechargeStation_Omni_V": {
+  "GR_HumanThrumboHorn": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22369,17 +22389,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "AIRobot_Hauler_II": {
+  "GR_KidneyToxicFilters": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22396,10 +22416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "AIRobot_Hauler_III": {
+  "GR_PsychicDampeners": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22416,10 +22436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "AIRobot_Hauler_IV": {
+  "GR_CatEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22436,10 +22456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "AIRobot_Hauler_V": {
+  "GR_CompoundEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22456,10 +22476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "AIRobot_Cleaner_II": {
+  "GR_InsectoidAntennae": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22476,10 +22496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "AIRobot_Cleaner_III": {
+  "GR_BunnyEars": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22496,10 +22516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "AIRobot_Cleaner_IV": {
+  "GR_MoleratNerveDampener": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22516,10 +22536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "AIRobot_Cleaner_V": {
+  "GR_MousePheromones": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22536,10 +22556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Builder_I": {
+  "GR_NeuronReinforcement": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22556,10 +22576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Builder_II": {
+  "GR_DevouringJaws": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22576,10 +22596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Builder_III": {
+  "GR_WolfMuscularFibers": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22596,10 +22616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Builder_IV": {
+  "GR_ChemfuelHeart": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22616,10 +22636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Builder_V": {
+  "GR_ChemfuelStomach": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22636,10 +22656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Crafter_I": {
+  "GR_BoomalopeNodules": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22656,10 +22676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Crafter_II": {
+  "GR_MuffaloSkin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22676,10 +22696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Crafter_III": {
+  "GR_MuffaloMammaries": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22696,10 +22716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Crafter_IV": {
+  "GR_MuffaloMuscles": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22716,10 +22736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Crafter_V": {
+  "GR_Ovipositor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22736,10 +22756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_ER_I": {
+  "GR_HibernationModule": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22756,10 +22776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_ER_II": {
+  "GR_BearMuscleTissue": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22776,10 +22796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_ER_III": {
+  "GR_DiggingBearClaws": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22796,10 +22816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_ER_IV": {
+  "GR_BearClaws": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22816,10 +22836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_ER_V": {
+  "GR_BoomalopeStomach": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22836,10 +22856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Kitchen_I": {
+  "GR_ChickenKidney": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22856,10 +22876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Kitchen_II": {
+  "GR_BearLiver": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22876,10 +22896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Kitchen_III": {
+  "GR_MuffaloLung": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22896,10 +22916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Kitchen_IV": {
+  "GR_MechaHeart": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22916,10 +22936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Kitchen_V": {
+  "GR_ChitinousHeart": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22936,10 +22956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Omni_I": {
+  "GR_BoomalopeHeart": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22956,10 +22976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Omni_II": {
+  "GR_ThrumboBrain": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22976,10 +22996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Omni_III": {
+  "GR_MonitorLizardBrain": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22996,10 +23016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Omni_IV": {
+  "GR_ChickenBrains": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23016,10 +23036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Bot_Omni_V": {
+  "GR_MechaSpine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23036,10 +23056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Table_RPP_RoboticsBench": {
+  "GR_CrocodileSpine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23056,10 +23076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Component": {
+  "GR_MuffaloSpine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23076,10 +23096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Matrix_I": {
+  "GR_ThrumboJaws": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23096,10 +23116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Matrix_II": {
+  "GR_InsectMandibles": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23116,10 +23136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Matrix_III": {
+  "GR_WolfJaws": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23136,10 +23156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Matrix_IV": {
+  "GR_MiniatureThrumboHorn": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23156,10 +23176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RPP_Matrix_V": {
+  "GR_InsectoidPheromones": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23176,10 +23196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Misc. Robots++",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "PotassiumIodide": {
+  "GR_RodentNose": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23196,10 +23216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RimatomicsRTG": {
+  "GR_MechaReceptors": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23216,10 +23236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RocketEngine": {
+  "GR_MothTympanalOrgan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23236,10 +23256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "MissileFuselage": {
+  "GR_RodentEar": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23256,10 +23276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "FissionWarhead": {
+  "GR_ThrumboEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23276,10 +23296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "turbineBlade": {
+  "GR_InsectileEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23296,10 +23316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "UraniumPellets": {
+  "GR_CanidEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23316,10 +23336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Plutonium": {
+  "GR_MechaTail": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23336,10 +23356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "DepletedUraniumPellets": {
+  "GR_ScytherTail": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23356,10 +23376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "FuelRods": {
+  "GR_CatTail": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23376,10 +23396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "FuelRodsMOX": {
+  "GR_ThrumboLeg": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23396,10 +23416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Apparel_RadiationMask": {
+  "GR_LizardLeg": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23416,10 +23436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Apparel_MoppMaskDesert": {
+  "GR_BearLeg": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23436,10 +23456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Apparel_MoppMaskWoodland": {
+  "GR_TrapIED_Boom": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23456,10 +23476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Apparel_MoppMaskSnow": {
+  "GR_TissueGrowingVat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23476,10 +23496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Apparel_RadiationSuit": {
+  "GR_NutrientVat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23496,10 +23516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Apparel_MoppSuitDesert": {
+  "GR_GeneRecombinator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23516,10 +23536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Apparel_MoppSuitWoodland": {
+  "GR_GeneticExtractionTable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23536,10 +23556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Apparel_MoppSuitSnow": {
+  "GR_GeneticsTinkeringTable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23556,10 +23576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RailgunSabot": {
+  "GR_TissueGrinder": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23576,10 +23596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "RailgunSabotDU": {
+  "GR_LargeElectroWomb": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23596,10 +23616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "ControlRodActuator": {
+  "GR_ElectroWomb": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23616,10 +23636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "ATOM": {
+  "GR_GenePod": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23636,10 +23656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "SCAD": {
+  "GR_ArchoWomb": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23656,10 +23676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "MEPS": {
+  "GR_ArchocentipedeFormer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23676,10 +23696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "ALC": {
+  "GR_DNAStorageBank": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23696,10 +23716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "ERS": {
+  "GR_MuffaloRug": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23716,10 +23736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "DriveActuator": {
+  "GR_WolfRug": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23736,10 +23756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "TargetingChip": {
+  "GR_HugeBearRug": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23756,10 +23776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "BeamSplitter": {
+  "GR_HugeBearCatRug": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23776,36 +23796,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "LenseModule": {
+  "GR_PoisonAmpoule": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Dubs Rimatomics",
-    "KarmaType": null
-  },
-  "Chainsaw": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -23816,10 +23816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "ZombieExtract": {
+  "GR_FeatherdustJoint": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23829,17 +23829,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "ZombieSerumSimple": {
+  "GR_ElectroEgg": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23849,17 +23849,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   },
-  "Zombie10Serum": {
+  "Apparel_Robe": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23869,17 +23869,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Zombie20Serum": {
+  "Skull": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23889,17 +23889,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Zombie30Serum": {
+  "BookcaseSmall": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23909,17 +23909,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Zombie40Serum": {
+  "Bookcase": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23929,17 +23929,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Zombie50Serum": {
+  "FloodLight": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23949,17 +23949,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Zombie60Serum": {
+  "WallLamp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23969,17 +23969,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Zombie70Serum": {
+  "Couch": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23989,17 +23989,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Zombie80Serum": {
+  "BionicJaw": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24009,17 +24009,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Zombie90Serum": {
+  "Novel": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24029,17 +24029,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Zombie100Serum": {
+  "Schematic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24049,17 +24049,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Meat_Zombie": {
+  "TextBook": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24076,7 +24076,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
   "DetoxifierLung": {
@@ -25477,6 +25477,1146 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Biotech",
+    "KarmaType": null
+  },
+  "GR_ParagonHorse": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ParagonThrumbo": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ParagonHumanoid": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ParagonFeline": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_ParagonInsectoid": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Bearodile": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Boomsnake": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Chickenlizard": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Muffalokomodo": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Spidersnake": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Wolfsnake": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Snakecat": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Lizardman": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Molebear": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Squirralope": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Rabbitchicken": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Ratffalo": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Beaverwolf": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Rabbitcat": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Moleman": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Bearalope": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Bearchicken": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Bearffalo": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Bearwolf": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Bearmole": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Bearcat": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "GR_Bearman": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
+    "KarmaType": null
+  },
+  "FT_Turret_Mortar": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_TurretHexMortar": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_TurretPrince": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_TurretEmpero": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_TurretAA": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_TurretQuadAA": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_TurretAT": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_Maxim4M": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_AutoCannon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_RecoillessGun": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_Schematic": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_FuelGenerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_ENIAC": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_Radio": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_FirefoamPopper": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_TableLathe": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_TableChemistry": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_TableConcreteMixer": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_Tetrapods": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_Barrier": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_BarrierDiagonal": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_BlocksConcrete": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_ReinforcedConcreteBag": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_WoodConcrete": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "FT_ConcreteCompressed": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Fortifications - Industrial",
+    "KarmaType": null
+  },
+  "VAE_Apparel_RiotArmor": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Armour Expanded",
+    "KarmaType": null
+  },
+  "VAE_Apparel_RiotHelmet": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Armour Expanded",
+    "KarmaType": null
+  },
+  "VAE_Apparel_Shield_Riot": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Armour Expanded",
+    "KarmaType": null
+  },
+  "MURWallSunLamp": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Wall Light",
+    "KarmaType": null
+  },
+  "Meat_GR_AberrantFleshbeast": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Genetics Expanded",
     "KarmaType": null
   }
 }
