@@ -638,7 +638,7 @@
       "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
-      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
+      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever and is not bothered by darkness. However, Timmy will be unhappy while outdoors.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -3375,6 +3375,622 @@
       },
       "defName": "Recluse",
       "name": "recluse"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "xenophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has the ability to feel the force that surrounds us.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_ForceSensitive",
+      "name": "forcesensitive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has begun to control the force, but requires further training and guidance.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_ForceSensitive",
+      "name": "forceapprentice"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy Has begun the journey to becoming a Jedi Knight.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jedi"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has attained the rank of Knight of the Jedi Order.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jediknight"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "Timmy is among the most respected of the Jedi Order, a true Master.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jedimaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4,
+      "description": "Timmy is ranked among the elite Jedi, those who are fit to serve on the Council.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jediconsular"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy Has begun the journey to the Dark side of the force.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sith"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is devoted to the dark side, spreading terror and flaring passions in their wake.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithinquisitor"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "Timmy is among the most feared in the galaxy, the Dark Lords of the Sith.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithlord"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4,
+      "description": "Timmy is attuned to the dark side of the force, able to tap near-limitless power.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithmaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is exploring the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graypadawan"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is devoted to maintaining the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "grayjedi"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "Timmy is a master Jedi, devoted to the 'living Force'.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graymaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4,
+      "description": "Timmy is attuned to the Living Force. he sees HIMself as an extension of it's will.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graysage"
     }
   ],
   "races": [
@@ -3386,8 +4002,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+28.8F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
@@ -3404,28 +4020,111 @@
       "data": {
         "customName": false,
         "stats": [
-          "+70.00 Mass",
-          "+100% Flammability",
-          "-108.0F Minimum comfortable temperature",
-          "+360.0F Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic resistance",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A zombie",
-      "defName": "Zombie",
-      "enabled": false,
-      "name": "Zombie",
-      "price": 1
+      "description": "Wookiees were a tall species of furry humanoids from the planet Kashyyyk, who could grow to a height of nearly three meters. They were covered from head to toe in a thick, shaggy coat of hair with water-shedding properties that notably came in shades of brown, black, gray, and white. The species had two sexes, female and male. The latter grew long beards in adult life. The average male weighed 150 kilograms while the average female weighed 100 kilograms. The Wookiees eye color ranged from blue to brown. Wookiees were big eaters, with the average adult requiring 3,500-6,000 calories a day of food. Their diet consisted of wild plants, berries, meat, and spices. They preferred their spices to be hot. While Wookiees did not like eating blosphi extract, it provided them with enough nutrition to survive. The literary collective term for Wookiees was a grove of Wookiees. Many of their kind were known to understand Galactic Basic but were unable to speak it due to their species' vocal structure. Wookiees had extendable claws which they used for climbing; using them for anything else violated the Wookiee honor code. Despite their fearsome appearance and volatile temperament, Wookiees were regarded as intelligent, sophisticated, loyal and trusting. When angered, Wookiees were known to descend into a berserker rage. Wookiees had an average lifespan of 400 standard years, and they appeared not to age over a span of fifty years. Their lifespans dramatically decreased due to the harsh working conditions in the spice mines of Kessel. During their prime growing years, Wookiees were often hungry, forcing them to eat whenever they could. They could learn to understand other languages, like Galactic Basic Standard, but they were physically unable to speak them due to their strange vocal chords. To those who had not learned to understand Shyriiwook, the Wookiee language, it appeared they spoke in a series of growls and purrs. Although a rare phenomenon, Force-sensitive Wookiees were possible and some joined the ranks of the Jedi, a source of great pride to their people. https://starwars.fandom.com/wiki/Wookiee",
+      "defName": "StarWarsRaces_Wookiee",
+      "enabled": true,
+      "name": "Wookiee",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Native to the Expansion Region planet Shili but later found throughout the galaxy, the Togruta were a species of sentient humanoids whose skin spanned a vast array of colors, including, but not limited to, orange, red, white, and yellow. These characteristics were a result of evolution; Togruta coloration was helpful as a method of camouflage from predators. Their most notable features were the large organic head formations upon their heads; two large cone-like horns called montrals atop their skull, and three lekku, also known as headtails, that sprouted downward. Both a Togruta's lekku and montrals tended to grow until they reached maturity, with females generally having longer lekku than the males. The male's montrals, however, were more branched than the females. A Togruta's montrals allowed them to sense the movement of objects around them through echolocation, and could sense up to 82 feet. https://starwars.fandom.com/wiki/Togruta",
+      "defName": "StarWarsRaces_Togruta",
+      "enabled": true,
+      "name": "Togruta",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Rodians were a species of reptilian humanoids. They possessed large pupil-less eyes that could see in infrared spectrum. Indeed, the Pantoran Kevmo Zink suspected the Rodians and his people saw different spectrums of light, but he was not sure what the exact divide was. Rodians also had twin saucer-like antennae that detected vibrations and twitched atop their head. Rodians also had slender snouts, pointed ears, and a ridge of spines cresting their skulls. Their snouts were said to resemble those of tapirs. Green—but sometimes red, yellow, or turquoise—scales covered their bodies, and their skin had a rough, pebbly texture, except on the snout and hands. They were cold blooded and had green blood. Females were physically distinguished by their mammary glands, and some of them, like Greeata Jendowanian, were capable of growing long tresses. The Rodian hand featured five long, dexterous fingers with suction cups at the ends. The pads helped them cope with the variety of conditions associated with living in a swamp, and could be used to help them climb aquatic vegetation. The shape of the Rodian hand, however, was as such that if an object was designed for their species, it would be uncomfortable for a human to use. Their toes were a lot like their fingers: long and tipped by suction cups. Although they were oxygen breathers, Rodians could breathe an air saturated with Clouzon-36 without the assistance of a respirator. Rodians smelled rank to humans. https://starwars.fandom.com/wiki/Rodian",
+      "defName": "StarWarsRaces_Rodian",
+      "enabled": true,
+      "name": "Rodian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Ewoks were sentient humanoids, averaging about one meter in height. Omnivorous, they were covered in fur from head to toe, with brown and black as the most common colors. Most Ewoks had solid-colored fur, though a few sported stripes. Ewoks had large, bright eyes, small humanoid noses, and hands that possessed two fingers and an opposable thumb. Despite their small size, Ewoks were physically strong enough to overpower combat-trained humans. https://starwars.fandom.com/wiki/Ewok",
+      "defName": "StarWarsRaces_Ewok",
+      "enabled": true,
+      "name": "Ewok",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Twi'leks were a species of tall humanoids whose skin spanned a vast array of colors, including white, orange, yellow, green, pink, blue, purple, black, grey, and red. Their most distinctive feature was the pair of prehensile appendages that sprouted from the crown or base of their skulls, known as lekku, or head-tails. Although Twi'leks normally had two lekku, some individuals had four. Super sensitive lekku could grab and hold objects and react to the slightest touch. A damaged lekku could cause serious harm to a Twi'lek's health. The species had two sexes, male and female. While most males typically had ears with lobes resembling those of humans, some males had cone-shaped hearing organs located in the same place on the head, a trait customarily found in the females of the same species. Although Twi'leks naturally had blunt teeth, males typically sharpened them to points. Twi'leks were usually thin, although corpulent individuals were known to exist. Under normal circumstances, they generally had a higher body temperature than other humanoid species.They had even higher body temperatures when in fear. Twi'leks and humans could breed to create a hybrid of the two species, such as when shortly after the death of Kanan Jarrus, he and Hera Syndulla gave birth to a son who appeared mostly human but inherited his mother's green pigment in his hair and ears. He was born after the liberation of Lothal, which Syndulla lived to participate in. https://starwars.fandom.com/wiki/Twi%27lek",
+      "defName": "StarWarsRaces_Twilek",
+      "enabled": true,
+      "name": "Twi'lek",
+      "price": 2917
     }
   ]
 }

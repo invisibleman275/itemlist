@@ -10,7 +10,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Updates the current list of active viewers.",
+    "description": null,
     "name": "Refresh viewers",
     "usage": "!refreshviewers",
     "userLevel": "Moderator",
@@ -28,7 +28,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Awards all active viewers coins.",
+    "description": null,
     "name": "Karma round",
     "usage": "!karmaround",
     "userLevel": "Moderator",
@@ -46,9 +46,9 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives eveyrone coins.",
+    "description": null,
     "name": "Give all coins",
-    "usage": "!giveallcoins <coins>",
+    "usage": "!giveallcoins",
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "GiveAllCoins"
@@ -64,9 +64,9 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer coins.",
+    "description": null,
     "name": "Give coins",
-    "usage": "!givecoins <viewer> <coins>",
+    "usage": "!givecoins",
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "GiveCoins"
@@ -82,9 +82,9 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows the balance of a given user.",
+    "description": null,
     "name": "Check user",
-    "usage": "!checkuser <viewer>",
+    "usage": "!checkuser",
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "CheckUser"
@@ -100,9 +100,9 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Sets the current karma for a given user.",
+    "description": null,
     "name": "Set karma",
-    "usage": "!setkarma <viewer> <karma>",
+    "usage": "!setkarma",
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "SetKarma"
@@ -118,7 +118,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Toggles coin generation.",
+    "description": null,
     "name": "Toggle coins",
     "usage": "!togglecoins",
     "userLevel": "Moderator",
@@ -136,7 +136,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows your current balance, karma, and optionally, the amount of coins earned per cycle.",
+    "description": null,
     "name": "Check balance",
     "usage": "!bal",
     "userLevel": "Anyone",
@@ -190,9 +190,9 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer some of your coins.",
+    "description": null,
     "name": "Gift coins",
-    "usage": "!giftcoins <viewer> <amount>",
+    "usage": "!giftcoins",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "GiftCoins"
@@ -262,9 +262,9 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Lets you wager coins to level up a skill of your choosing.",
+    "description": null,
     "name": "Level skill",
-    "usage": "!levelskill <skill> <coins>",
+    "usage": "!levelskill",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "LevelSkillShortcut"
@@ -334,7 +334,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows you the complete list of installed mods.",
+    "description": null,
     "name": "Installed mods",
     "usage": "!installedmods",
     "userLevel": "Anyone",
@@ -424,9 +424,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
+    "description": null,
     "name": "Passion shuffle",
-    "usage": "!passionshuffle [skill]",
+    "usage": "!passionshuffle",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "PassionShuffleShortcut"
@@ -442,9 +442,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Purchases the part specified and queues it for surgery on your pawn.",
+    "description": null,
     "name": "Surgery",
-    "usage": "!surgery <item> <quantity/bodypart>",
+    "usage": "!surgery",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "SurgeryShortcut"
@@ -532,9 +532,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Replaces a trait with a different trait.",
+    "description": null,
     "name": "Replace trait",
-    "usage": "!replacetrait <old> <new>",
+    "usage": "!replacetrait",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "ReplaceTraitShortcut"
@@ -550,9 +550,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "It's like buy item, but it gets added to your inventory if possible.",
+    "description": null,
     "name": "Backpack",
-    "usage": "!backpack <item> [quantity]",
+    "usage": "!backpack",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "BackpackShortcut"
@@ -568,9 +568,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Downgrades a skill's passion... sometimes.",
+    "description": null,
     "name": "Remove passion",
-    "usage": "!removepassion <skill>",
+    "usage": "!removepassion",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "RemovePassionShortcut"
@@ -586,9 +586,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Upgrades a skill's passion... sometimes.",
+    "description": null,
     "name": "Add passion",
-    "usage": "!passion <skill>",
+    "usage": "!passion",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "AddPassionShortcut"
@@ -658,9 +658,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your current stats within a given category.",
+    "description": null,
     "name": "Viewer stats",
-    "usage": "!mypawnstats [stat1] [stat2]",
+    "usage": "!mypawnstats",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnStats"
@@ -676,9 +676,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
+    "description": null,
     "name": "Viewer health",
-    "usage": "!mypawnhealth [capacity]",
+    "usage": "!mypawnhealth",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnHealth"
@@ -712,7 +712,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's gear.",
+    "description": null,
     "name": "Viewer gear",
     "usage": "!mypawngear",
     "userLevel": "Anyone",
@@ -748,9 +748,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's work priorities.",
+    "description": null,
     "name": "Viewer work",
-    "usage": "!mypawnwork [worktype=priority] [...]",
+    "usage": "!mypawnwork",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnWork"
@@ -838,7 +838,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn leave the colony.",
+    "description": null,
     "name": "Abandon pawn",
     "usage": "!leave",
     "userLevel": "Anyone",
@@ -856,9 +856,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's relationships to other viewers.",
+    "description": null,
     "name": "Viewer relations",
-    "usage": "!mypawnrelations [viewer]",
+    "usage": "!mypawnrelations",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "PawnRelations"
@@ -892,9 +892,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
+    "description": null,
     "name": "Research",
-    "usage": "!research [project/item]",
+    "usage": "!research",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Research"
@@ -910,9 +910,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.",
+    "description": null,
     "name": "Lookup",
-    "usage": "!lookup <item/category> [query]",
+    "usage": "!lookup",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Lookup"
@@ -928,9 +928,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
+    "description": null,
     "name": "Price check",
-    "usage": "!price <item/category> [query]",
+    "usage": "!price",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "PriceCheck"
@@ -982,9 +982,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
+    "description": null,
     "name": "Insult",
-    "usage": "!insult [target]",
+    "usage": "!insult",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Insult"
@@ -1000,9 +1000,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn chat with a random pawn. If a viewer is specified, you'll chat with their pawn instead.",
+    "description": null,
     "name": "Chat",
-    "usage": "!chat [target]",
+    "usage": "!chat",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Chat"
@@ -1018,9 +1018,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
+    "description": null,
     "name": "Flirt",
-    "usage": "!flirt [target]",
+    "usage": "!flirt",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Flirt"
@@ -1036,9 +1036,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
+    "description": null,
     "name": "Deep chat",
-    "usage": "!deepchat [target]",
+    "usage": "!deepchat",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "DeepChat"
@@ -1090,9 +1090,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Provides some information about supported things. Supported categories are: 'weapons'",
+    "description": null,
     "name": "Database",
-    "usage": "!rwdata <category/weaponname> [weaponname]",
+    "usage": "!rwdata",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "RimDatabase"
