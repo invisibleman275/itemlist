@@ -8146,7 +8146,7 @@
       "abr": "imperialcredit",
       "category": "Raw resources",
       "defname": "PJ_ImperialCredit",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "imperialisbuniform(outer)",
