@@ -3268,7 +3268,7 @@
       "abr": "throwingrocks",
       "category": "Ranged weapons",
       "defname": "VWE_Throwing_Rocks",
-      "price": 11
+      "price": -10
     },
     {
       "abr": "longbow",
