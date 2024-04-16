@@ -3996,7 +3996,7 @@
   "races": [
     {
       "data": {
-        "customName": false,
+        "customName": true,
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
@@ -4013,8 +4013,8 @@
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
       "enabled": true,
-      "name": "human",
-      "price": 2000
+      "name": "sanguophage",
+      "price": 2917
     },
     {
       "data": {
