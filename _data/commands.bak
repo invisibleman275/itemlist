@@ -329,7 +329,7 @@
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
-      "globalCooldown": 0,
+      "globalCooldown": 120,
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "Twitch Toolkit"

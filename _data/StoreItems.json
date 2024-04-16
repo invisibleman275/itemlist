@@ -6478,7 +6478,7 @@
       "abr": "aberrantfleshbeast",
       "category": "Animals",
       "defname": "GR_AberrantFleshbeast",
-      "price": 17
+      "price": 1000
     },
     {
       "abr": "aberrantmeat",
@@ -7744,25 +7744,25 @@
       "abr": "fleshflies",
       "category": "Animals",
       "defname": "GR_FleshFlies",
-      "price": 17
+      "price": 1000
     },
     {
       "abr": "fleshgrowth",
       "category": "Animals",
       "defname": "GR_FleshGrowth",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "fleshmonstrosity",
       "category": "Animals",
       "defname": "GR_FleshMonstrosity",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "fleshling",
       "category": "Animals",
       "defname": "GR_Fleshling",
-      "price": 17
+      "price": 1000
     },
     {
       "abr": "floodlight",
