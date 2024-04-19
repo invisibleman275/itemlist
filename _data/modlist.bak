@@ -42,10 +42,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Roolo (Updated by Nillas)",
-    "name": "RunAndGun[1.5 UPDATED]",
-    "steamId": null,
-    "version": null
+    "author": "Roolo, Owlchemist and Nillas",
+    "name": "RunAndGun (1.5 Updated by Nillas)",
+    "steamId": "3221373644",
+    "version": "1.5"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -60,16 +60,40 @@
     "version": "1.1.1.0"
   },
   {
+    "author": "Smuffle and OMGSplat",
+    "name": "Harvest Organs Post Mortem",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Rimatomics",
     "steamId": "1127530465",
     "version": "1.7.7368"
   },
   {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Aoba",
+    "name": "WarCasket Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "nry",
@@ -82,12 +106,6 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "7.0.2.0-beta+01a08aed73c337ca9e39b6f749a86d35fc04a0fb"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
-    "name": "Vanilla Factions Expanded - Pirates",
-    "steamId": "2723801948",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
@@ -236,8 +254,8 @@
   {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Skills Expanded",
-    "steamId": "2854967442",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
@@ -297,7 +315,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8871.33643"
+    "version": "1.0.8871.34223"
   },
   {
     "author": "Kierannkkt",
@@ -307,7 +325,7 @@
   },
   {
     "author": "void",
-    "name": "Character Editor [1.0-1.5]",
+    "name": "Character Editor",
     "steamId": "3211700981",
     "version": "1.4.1242.0"
   },
@@ -322,5 +340,11 @@
     "name": "RimFridge: Now with Shelves!",
     "steamId": "2898411376",
     "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "kongkim",
+    "name": "Farmable Neutroamine",
+    "steamId": null,
+    "version": null
   }
 ]

@@ -9671,7 +9671,13 @@
 		"price": 5,
 		"category": "Plant matter",
 		"defname": "Neutroaleaves"
+	},
+	{
+		"abr": "autopsytable",
+		"price": 400,
+		"category": "Production",
+		"defname": "TableAutopsy"
 	}
 	],
-	"total": 1612
+	"total": 1613
 }
