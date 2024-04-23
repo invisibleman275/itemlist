@@ -346,5 +346,17 @@
     "name": "Farmable Neutroamine",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "ComradeAlexey",
+    "name": "Vanilla Research Panel - Queue",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "StatistNo1, Rebel_Rabbit and Cain",
+    "name": "Mines 2.0",
+    "steamId": "2503894706",
+    "version": "0.0.0.0"
   }
 ]

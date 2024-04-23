@@ -78,6 +78,18 @@
     "version": null
   },
   {
+    "author": "sindre0830",
+    "name": "Universum",
+    "steamId": "2920558019",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sindre0830",
+    "name": "RimNauts 2",
+    "steamId": "2880599514",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -352,5 +364,11 @@
     "name": "Vanilla Research Panel - Queue",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "StatistNo1, Rebel_Rabbit and Cain",
+    "name": "Mines 2.0",
+    "steamId": "2503894706",
+    "version": "0.0.0.0"
   }
 ]

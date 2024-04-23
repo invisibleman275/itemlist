@@ -9677,7 +9677,49 @@
 		"price": 400,
 		"category": "Production",
 		"defname": "TableAutopsy"
+	},
+	{
+		"abr": "cosmicsurveillancesatellitemodule",
+		"price": 53,
+		"category": "Manufactured",
+		"defname": "RimNauts2_Module_Satellite_CosmicSurveillance"
+	},
+	{
+		"abr": "energyboostersatellitemodule",
+		"price": 53,
+		"category": "Manufactured",
+		"defname": "RimNauts2_Module_Satellite_EnergyBooster"
+	},
+	{
+		"abr": "energyrelaysatellitemodule",
+		"price": 53,
+		"category": "Manufactured",
+		"defname": "RimNauts2_Module_Satellite_Energy"
+	},
+	{
+		"abr": "relaysatellitemodule",
+		"price": 53,
+		"category": "Manufactured",
+		"defname": "RimNauts2_Module_Satellite"
+	},
+	{
+		"abr": "spacesuithelmet",
+		"price": 817,
+		"category": "Headgear",
+		"defname": "RimNauts2_Apparel_SpaceSuit_Head"
+	},
+	{
+		"abr": "spacesuitearmor",
+		"price": 3150,
+		"category": "Armor",
+		"defname": "RimNauts2_Apparel_SpaceSuit_Body"
+	},
+	{
+		"abr": "stationmodule",
+		"price": 53,
+		"category": "Manufactured",
+		"defname": "RimNauts2_Module_Station"
 	}
 	],
-	"total": 1613
+	"total": 1620
 }
