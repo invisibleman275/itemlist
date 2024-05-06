@@ -42,6 +42,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Dakk Passerida",
+    "name": "Replantable Anima Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roolo, Owlchemist and Nillas",
     "name": "RunAndGun (1.5 Updated by Nillas)",
     "steamId": "3221373644",
@@ -72,10 +78,34 @@
     "version": "1.7.7368"
   },
   {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.3"
+  },
+  {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "sindre0830",
+    "name": "Universum",
+    "steamId": "2920558019",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sindre0830",
+    "name": "RimNauts 2",
+    "steamId": "2880599514",
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",
@@ -105,7 +135,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.3.0-beta+a805c319a49af0ec62edf20a182bb3a911869b36"
+    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
   },
   {
     "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
@@ -315,7 +345,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8871.34223"
+    "version": "1.0.8888.40976"
   },
   {
     "author": "Kierannkkt",
@@ -334,12 +364,6 @@
     "name": "Star Wars Races",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
-    "name": "RimFridge: Now with Shelves!",
-    "steamId": "2898411376",
-    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
   },
   {
     "author": "kongkim",
