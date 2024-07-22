@@ -54,16 +54,40 @@
     "version": "1.5"
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
     "version": "1.1.1.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortification Industrial - Citadel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Smuffle and OMGSplat",
@@ -87,7 +111,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.5.0.3"
+    "version": "1.5.0.4"
   },
   {
     "author": "Smash Phil",
@@ -186,18 +210,6 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
-    "name": "Vanilla Furniture Expanded - Architect",
-    "steamId": "2608762624",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Industrial",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "denev",
     "name": "Smart Turret Covering",
     "steamId": "2636621800",
@@ -284,8 +296,8 @@
   {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Skills Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2854967442",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
@@ -304,6 +316,12 @@
     "name": "Wall Light",
     "steamId": "1423699208",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dubwise",
@@ -345,19 +363,13 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8888.40976"
+    "version": "1.0.8911.30668"
   },
   {
     "author": "Kierannkkt",
     "name": "Mechlord Warcasket",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "3211700981",
-    "version": "1.4.1242.0"
   },
   {
     "author": "Foggy Morning",
@@ -382,5 +394,29 @@
     "name": "Mines 2.0",
     "steamId": "2503894706",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Smash Phil and Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "2878587061",
+    "version": "1.4.7"
+  },
+  {
+    "author": "Redundantusage",
+    "name": "Oops All Gene Banks",
+    "steamId": "2883683444",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.10.0"
+  },
+  {
+    "author": "OskarPotocki, Sarg Bjornson and xrushha",
+    "name": "Vanilla Recycling Expanded",
+    "steamId": null,
+    "version": null
   }
 ]
