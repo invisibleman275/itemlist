@@ -79,26 +79,6 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Luciferium": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "RimWorld",
-    "KarmaType": null
-  },
   "Penoxycyline": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -36057,6 +36037,26 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Divine Order",
+    "KarmaType": null
+  },
+  "Luciferium": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimWorld",
     "KarmaType": null
   }
 }
