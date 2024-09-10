@@ -244,5 +244,23 @@
     "name": "Divine Order",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Remove Industrial Stuff",
+    "steamId": "2294378964",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Remove Spacer Stuff (Continued)",
+    "steamId": "2260590151",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Medicines",
+    "steamId": null,
+    "version": null
   }
 ]
