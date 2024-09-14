@@ -18701,7 +18701,7 @@
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
       "enabled": false,
-      "name": "sanguophage",
+      "name": "human",
       "price": 2917
     }
   ]

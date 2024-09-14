@@ -760,7 +760,7 @@
       "abr": "humanleather",
       "category": "Leathers",
       "defname": "Leather_Human",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "pigskin",
@@ -1876,7 +1876,7 @@
       "abr": "humanmeat",
       "category": "Meat",
       "defname": "Meat_Human",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "techprint(cataphractarmor)",
@@ -4336,7 +4336,7 @@
       "abr": "driedhumanmeat",
       "category": "Meat",
       "defname": "DankPyon_DriedMeat_Human",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "driedinsectmeat",
@@ -5692,13 +5692,13 @@
       "abr": "humanleatherhide",
       "category": "Hides",
       "defname": "DankPyon_Hide_Leather_Human",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "humanrug(1x2)",
       "category": "Furniture",
       "defname": "DankPyon_RugHuman1x2c",
-      "price": 322
+      "price": -10
     },
     {
       "abr": "hunter'sstew",
@@ -8152,7 +8152,7 @@
       "abr": "smokedhumanmeat",
       "category": "Meals",
       "defname": "DankPyon_SmokedMeat_Human",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "smokedinsectmeat",
@@ -9349,12 +9349,6 @@
       "price": 198
     },
     {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
-    },
-    {
       "abr": "earlymedievalmedicine",
       "category": "Medicine",
       "defname": "MedicineEarlyMedievalMM",
@@ -9371,6 +9365,12 @@
       "category": "Medicine",
       "defname": "MedicineParesianMM",
       "price": 83
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
   "total": 1562
