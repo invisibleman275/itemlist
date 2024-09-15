@@ -166,6 +166,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "visitorgroup",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
@@ -273,6 +278,11 @@
 	{
 		"abr": "prisoner",
 		"price": 3500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitcolony",
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -396,5 +406,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 79
+	"total": 81
 }
