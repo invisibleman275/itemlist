@@ -262,5 +262,11 @@
     "name": "Medieval Medicines",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Skills Expanded",
+    "steamId": "2854967442",
+    "version": "1.0.0.0"
   }
 ]
