@@ -68,6 +68,12 @@ mods:
   author: true
 
 # Build settings
-remote_theme: SirRandoo/Type-on-Strap
-plugins:
-  -
+theme: type-on-strap
+markdown: kramdown
+sass:
+  style: compressed
+
+permalink: pretty
+
+exclude:
+  - build-scripts
