@@ -9004,13 +9004,13 @@
       "abr": "unhold",
       "category": "Animals",
       "defname": "DankPyon_Unhold",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "unhold",
       "category": "Animals",
       "defname": "DankPyon_UnholdSnow",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "unholdheart",
