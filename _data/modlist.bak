@@ -60,12 +60,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
-  },
-  {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
@@ -128,8 +122,8 @@
   {
     "author": "Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Animals Expanded",
-    "steamId": "2871933948",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Smash Phil",
@@ -146,8 +140,8 @@
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
-    "steamId": "3513789221",
-    "version": "11.0.5"
+    "steamId": "818773962",
+    "version": "12.0.0"
   },
   {
     "author": "Indeed",
@@ -174,12 +168,6 @@
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool (1.6 Temp)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "kongkim",
     "name": "Farmable Neutroamine",
     "steamId": null,
@@ -195,13 +183,13 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.6.1.0"
+    "version": "1.6.3.3"
   },
   {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.9298.28474"
+    "version": "1.0.9336.15838"
   },
   {
     "author": "Haplo",
@@ -255,7 +243,7 @@
     "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
     "name": "RimFridge: Now with Shelves!",
     "steamId": "2898411376",
-    "version": "1.0.0+a61132696b2f07ab7d9270a529adaf3d99a107ab"
+    "version": "1.0.0+55783cd62a94fd8e1fbec992c4691c72ad4daf4e"
   },
   {
     "author": "StatistNo1, Rebel_Rabbit and Cain",
