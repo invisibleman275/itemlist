@@ -2494,7 +2494,7 @@
       "abr": "alligatoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggAlligatorFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "alligatoregg(unfert.)",
@@ -2524,7 +2524,7 @@
       "abr": "anacondaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggAnacondaFertilized",
-      "price": 208
+      "price": -10
     },
     {
       "abr": "anacondaegg(unfert.)",
@@ -3052,7 +3052,7 @@
       "abr": "crocodileegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggCrocodileFertilized",
-      "price": 40
+      "price": -10
     },
     {
       "abr": "crocodileegg(unfert.)",
@@ -3085,12 +3085,6 @@
       "price": 667
     },
     {
-      "abr": "deathsuperacidifier",
-      "category": "Bionic",
-      "defname": "VESWW_DeathSuperAcidifier",
-      "price": 1500
-    },
-    {
       "abr": "deathrestaccelerator",
       "category": "Misc",
       "defname": "DeathrestAccelerator",
@@ -3118,7 +3112,7 @@
       "abr": "deserttortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggDesertTortoiseFertilized",
-      "price": 47
+      "price": -10
     },
     {
       "abr": "archerytarget",
@@ -3772,7 +3766,7 @@
       "abr": "gilamonsteregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggGilaMonsterFertilized",
-      "price": 53
+      "price": -10
     },
     {
       "abr": "gilamonsteregg(unfert.)",
@@ -4876,7 +4870,7 @@
       "abr": "penguinegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggPenguinFertilized",
-      "price": 32
+      "price": -10
     },
     {
       "abr": "penguinegg(unfert.)",
@@ -4990,7 +4984,7 @@
       "abr": "platypusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggPlatypusFertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "platypusegg(unfert.)",
@@ -6202,7 +6196,7 @@
       "abr": "rattlesnakeegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggRattlesnakeFertilized",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "rattlesnakeegg(unfert.)",
@@ -7198,7 +7192,7 @@
       "abr": "wildgooseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggWildGooseFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "wildgooseegg(unfert.)",
@@ -7249,5 +7243,5 @@
       "price": 3333
     }
   ],
-  "total": 1208
+  "total": 1207
 }

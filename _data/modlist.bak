@@ -234,6 +234,12 @@
     "version": "1.7.7368"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -272,6 +278,30 @@
   {
     "author": "vin",
     "name": "LWM's Adaptive Deep Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.9335.31941"
+  },
+  {
+    "author": "Slime-Senpai",
+    "name": "EndlessGrowth",
+    "steamId": "2894401734",
+    "version": "1.5.2.0+61694815f123034bf8a029db2bbc8e693a4d9214"
+  },
+  {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ComradeAlexey",
+    "name": "Vanilla Research Panel - Queue",
     "steamId": null,
     "version": null
   }
